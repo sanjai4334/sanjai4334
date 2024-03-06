@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on python, web, andoid projects...
 - 📫 Connect with me on : [Instagram](https://www.instagram.com/sanjai4334/), [Linkedin](https://www.linkedin.com/in/sanjai4334/)...
 
-[![](https://visitcount.itsvg.in/api?id=sanjai4334&label=PROFILE%20VIEWS&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue&abbreviated=true)
 
 <!---
 sanjai4334/sanjai4334 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
