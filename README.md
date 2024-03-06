@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on python, web, andoid projects...
 - 📫 How to reach me Instagram : sanjai4334...
 
+![](https://komarev.com/ghpvc/?username=sanjai4334&color=green&style=for-the-badge&abbreviated=true)
+
 <!---
 sanjai4334/sanjai4334 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
